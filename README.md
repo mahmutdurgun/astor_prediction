@@ -23,3 +23,7 @@ Nasıl Çalıştırılır
 Veri setini yükleyin.
 LSTM_model.py dosyasını çalıştırın.
 Elde edilen grafikleri inceleyin.
+
+
+
+yatırım tavsiyesi diildir. eğitim amaçlı kullanılmıştır.
